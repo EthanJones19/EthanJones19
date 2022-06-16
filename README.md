@@ -8,7 +8,7 @@
 <br/>
 
 ### Projects I've worked on:
-* Taverner [(Itch.io)](https://lthan.itch.io/taverner)
+* Taverner [(Itch.io)](https://lthan.itch.io/taverner) [(GitHub)](https://github.com/CamRobinson1103/Taverner)
 
 ![image](https://user-images.githubusercontent.com/69812858/174009529-1f8b864c-e4bc-4bc1-8990-b9b34491d013.png)
 
