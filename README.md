@@ -1,7 +1,7 @@
 ### Hi there
 
 ### My info:
-* [LinkedIn] https://www.linkedin.com/in/ethan-jones-a89594241/
+* [LinkedIn](https://www.linkedin.com/in/ethan-jones-a89594241/)
 * Email: ethanjones800@yahoo.com
 
 <br/>
