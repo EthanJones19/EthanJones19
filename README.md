@@ -2,7 +2,7 @@
 
 ### My info:
 * [LinkedIn](https://www.linkedin.com/in/ethan-jones-a89594241/)
-* 
+* [Resume](https://resume.creddle.io/resume/cvfqcr8hsbc)
 * Email: ethanjones800@yahoo.com
 
 <br/>
