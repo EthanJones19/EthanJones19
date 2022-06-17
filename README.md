@@ -1,5 +1,8 @@
 ### Hi there
 
+### About me:
+I am game developer for Unity and Unreal Engine 4.
+
 ### My info:
 * [LinkedIn](https://www.linkedin.com/in/ethan-jones-a89594241/)
 * [Resume](https://resume.creddle.io/resume/cvfqcr8hsbc)
